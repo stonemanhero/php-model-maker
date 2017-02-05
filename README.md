@@ -1,14 +1,11 @@
 <h1>Php model maker</h1>
 
-
 <p>Usage:</p>
 <ul>
 	<li> Copy script to your /model directory </li>
-	<li> Create *.model configuration file and add instructions (see example)</li>
+	<li> Create model.pmm configuration file and add instructions (see example)</li>
 	<li> Run script </li>
 </ul>
-
-<br>
 
 <p>Confiruration file example</p>
 <pre>+Contact
