@@ -34,7 +34,5 @@ def main():
 	for attr in code[1:]:
 		model_attr.append(attr.strip('\n'))
 
-	
-
 if __name__ == "__main__":
     main()

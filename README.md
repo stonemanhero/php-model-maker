@@ -3,11 +3,11 @@
 <p>Usage:</p>
 <ul>
 	<li> Copy script to your /model directory </li>
-	<li> Create model.pmm configuration file and add instructions (see example)</li>
+	<li> Edit model.pmm configuration file (see example)</li>
 	<li> Run script </li>
 </ul>
 
-<p>Confiruration file example</p>
+<p>Confiruration file example:</p>
 <pre>+Contact
 email
 message</pre>
