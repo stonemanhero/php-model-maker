@@ -11,15 +11,13 @@
 <br>
 
 <p>Confiruration file example</p>
-<hr>
 <pre>+Contact
 email
 message</pre>
-<hr>
 
 <p>This will create ClassContact.php with code: </p>
 
-<pre><?php
+<pre><code class='php'><?php
 	class Contact
 	{
 		private $email;
@@ -46,5 +44,4 @@ message</pre>
 		{
 			return $this->message;
 		}
-	}
-</pre>
+	}</code></pre>
