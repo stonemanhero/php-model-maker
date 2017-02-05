@@ -17,7 +17,7 @@ message</pre>
 
 <p>This will create ClassContact.php with code: </p>
 
-'''php
+```
 <?php
 	class Contact
 	{
@@ -46,4 +46,4 @@ message</pre>
 			return $this->message;
 		}
 	}
-'''
+```
