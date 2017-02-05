@@ -7,7 +7,7 @@
 	<li> Run script </li>
 </ul>
 
-<p>Confiruration file example:</p>
+<p>Configuration file example:</p>
 <pre>+Contact
 email
 message</pre>
