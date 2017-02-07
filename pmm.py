@@ -32,7 +32,7 @@ def create_model(name, attrs):
 	code = code + "\t{\n"
 
 	for attr in attrs:
-		code = code + "\t\tprivate $" + attr + "\n"
+		code = code + "\t\tprivate $" + attr + ";\n"
 
 	code = code + "\n\t\t// setters\n"
 
